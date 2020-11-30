@@ -6,4 +6,4 @@ Code for paper 'Amortized Variational Deep Q Network' on http://arxiv.org/abs/20
 #2.python main_noisynet.py --env 128NDeterministicChain-v0 --episodes 450 --gamma 1 --seed 20
 
 ## Acknowledgement
-Thanks Yunhao Tang for his work on Variational Deep Q Network and MDP chain environment HardMDP (https://github.com/robintyh1/Variational-DQN). Thanks for Damcy's work on Prioritized Experience Replay (I modified it) on https://github.com/Damcy/prioritized-experience-replay.
+Thanks Yunhao Tang for his work on Variational Deep Q Network and MDP chain environment HardMDP on https://github.com/robintyh1/Variational-DQN. Thanks for Damcy's work on Prioritized Experience Replay (I modified it) on https://github.com/Damcy/prioritized-experience-replay.
