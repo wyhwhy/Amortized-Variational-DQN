@@ -8,6 +8,6 @@ Code for paper 'Amortized Variational Deep Q Network' on http://arxiv.org/abs/20
 ## Acknowledgement
 Thanks Yunhao Tang for his work on Variational Deep Q Network and MDP chain environment HardMDP on https://github.com/robintyh1/Variational-DQN. Thanks for Damcy's work on Prioritized Experience Replay (which was modified) on https://github.com/Damcy/prioritized-experience-replay.
 
-##Citation
+## Citation
 If you use our code or refer to our paper, please cite the following. Thanks!
 Haotian Zhang, Yuhao Wang, Jianyong Sun, and Zongben Xu. "Amortized Variational Deep Q Network." arXiv preprint arXiv:2011.01706 (2020). Deep Reinforcement Learning Workshop, NIPS, 2020.
