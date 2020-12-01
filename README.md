@@ -10,4 +10,5 @@ Thanks Yunhao Tang for his work on Variational Deep Q Network and MDP chain envi
 
 ## Citation
 If you use our code or refer to our paper, please cite the following. Thanks!
+
 Haotian Zhang, Yuhao Wang, Jianyong Sun, and Zongben Xu. "Amortized Variational Deep Q Network." arXiv preprint arXiv:2011.01706 (2020). Deep Reinforcement Learning Workshop, NIPS, 2020.
