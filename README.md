@@ -1,4 +1,4 @@
-# Amortized-Variational-DQN
+# Amortized Variational Deep Q Network (AVDQN)
 Code for paper 'Amortized Variational Deep Q Network' on http://arxiv.org/abs/2011.01706, accepted to Deep RL workshop NeurIPS 2020.
 
 ## Example for running the code:
